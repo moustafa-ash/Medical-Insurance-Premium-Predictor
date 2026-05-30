@@ -10,7 +10,7 @@ The objective of this project is to build a robust machine learning regression m
 This project utilizes a medical insurance dataset containing individual patient records and their corresponding medical costs. The dataset consists of:
 * **Numerical Features:** `age`, `bmi` (Body Mass Index), `children` (number of dependents), and `charges` (the target variable).
 * **Categorical Features:** `sex`, `smoker` (yes/no), and `region` (residential area).
-The original dataset can be found here: [[Medical Insurance Cost Dataset](https://www.kaggle.com/datasets/mosapabdelghany/medical-insurance-cost-dataset?resource=download)].
+* **The original dataset can be found here:** [[Medical Insurance Cost Dataset](https://www.kaggle.com/datasets/mosapabdelghany/medical-insurance-cost-dataset?resource=download)].
 
 ## 🧠 The Approach
 To capture the complex, non-linear relationships within the health data without overfitting, the following pipeline was implemented:
